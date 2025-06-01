@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Gonzalo</h1>
-<h3 align="center">Desarrollador web especializado en SIG e IDE | Python • Django • GDAL • Leaflet</h3>
+<h3 align="center">Desarrollador de Infraestructuras de Datos Espaciales (IDE)</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
