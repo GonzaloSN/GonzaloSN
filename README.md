@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Gonzalo</h1>
-<h3 align="center">Desarrollador web especializado en SIG e IDE | Python • Django • GeoServer • GDAL • Leaflet</h3>
+<h3 align="center">Desarrollador web especializado en SIG e IDE | Python • Django • GDAL • Leaflet</h3>
 
 ---
 
@@ -14,11 +14,12 @@ analíticas y de machine learning aplicadas a problemas reales.
 
 ### 🛠 Tecnologías y herramientas que uso
 
-- **Backend**: Python, Django, DRF, Scikit-learn, Rasa
-- **Frontend**: Vue.js, Leaflet, HTML5, CSS3, JavaScript, Bootstrap, jQuery
-- **Geoespacial**: PostGIS, GeoServer, GDAL, Rasterio, pg_tileserv, Geopandas
-- **DevOps & Infraestructura**: Docker, Docker Compose, Linux/Ubuntu Server, Nginx, GitHub Actions (CI/CD)
-- **Base de Datos**: PostgreSQL
+- **Backend**: Python, Django, Django REST Framework (DRF), Scikit-learn, Rasa
+- **Geoespacial**: PostGIS, GeoServer, GDAL, Rasterio, pg_tileserv, GeoPandas
+- **Frontend**: Vue.js, Leaflet, JavaScript, HTML5, CSS3, Bootstrap, jQuery
+- **Tareas Asíncronas & Mensajería**: Celery, RabbitMQ, Redis
+- **DevOps & Infraestructura**: Docker, Docker Compose, Linux (Ubuntu Server), Nginx, GitHub Actions (CI/CD)
+- **Bases de Datos**: PostgreSQL
 
 ---
 
@@ -33,17 +34,17 @@ analíticas y de machine learning aplicadas a problemas reales.
 
 ### 🚀 Proyectos destacados
 
-- 🌦️ **Observatorio Climatico - Universidad San Sebastián** :(https://observatorioclimatico.uss.cl)
-- 🏠 **ClimAgro**(https://www.climagro.cl)
+- 🌦️ [**Observatorio Climatico - Universidad San Sebastián**](https://observatorioclimatico.uss.cl)
+- 🗺️ [**ClimAgro**](https://www.climagro.cl)
 
 ---
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario)  
-📧 [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)  
-🌐 [www.tusitio.dev](https://www.tusitio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gonzalosnavarrete)  
+📧 [gonzalosnavarrete@outlook.com](mailto:gonzalosnavarrete@outlook.com)
 
 ---
 
-"si lo puedes imaginar, lo puedes programar"
+> *"Si lo puedes imaginar, lo puedes programar."*  
+> — **Alejandro Taboada - Programación ATS**
