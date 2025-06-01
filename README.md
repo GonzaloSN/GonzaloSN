@@ -21,7 +21,10 @@ analíticas y de machine learning aplicadas a problemas reales.
 - **DevOps & Infraestructura**: Docker, Docker Compose, Linux (Ubuntu Server), Nginx, GitHub Actions (CI/CD)
 - **Bases de Datos**: PostgreSQL
 
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4183C4?style=for-the-badge&logo=postgresql&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ---
 
 ### 🛰️ Lo que hago
